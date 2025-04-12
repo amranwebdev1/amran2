@@ -1,0 +1,436 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link{
+      
+    font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+     line-height: 24px;
+      letter-spacing: -0.1px;
+      color: #0D0A19;
+}
+.sing{
+  font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+
+}
+.sing img{
+  width: 46;
+  height: 46;
+  border-radius: 4px;
+  background: #F5F6F7;
+  
+
+
+}
+.section1{
+  background-image: url(Rectangle.png);
+  width: 100%;
+  height: 520px;
+  background-repeat: no-repeat;
+  
+}
+.section1 h1{
+font-family: Inter;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+letter-spacing: -0.3px;
+text-align: center;
+color:#fff;
+padding-top: 100px ;
+}
+.section1 p{
+  font-family: Inter;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0px;
+text-align: center;
+color:#fff;
+margin-top: 10px ;
+}
+.topFooter p{
+  font-family: Inter;
+font-weight: 400;
+font-size: 12px;
+line-height: 0;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+text-align: left;
+margin-left: 10px;
+
+}
+.topFooter{
+max-width: 945px;
+height: 100px;
+top: 540px;
+border-radius: 8px;
+background-color: #fff;
+box-shadow: 0px 3px 4px 0px rgba(153, 155, 168, 0.15);
+position: absolute;
+
+ left: 50%;
+ z-index: 99;
+ width: 90%;
+ transform: translateX(-50%);
+ 
+}
+.topFooter .form-select{
+  font-family: Inter;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+
+border: none;
+  
+}
+
+.amranBtn{
+  width: 98;
+height: 46;
+border-radius: 10px;
+  background-color: #7963F0;
+  color:#fff;
+  padding: 7px;
+  font-weight: 700;
+
+  
+}
+.line{
+  border-right: 1px solid #6F6F73;
+  height: 40px;
+  margin-top: 20px;
+}
+.nice{
+  margin-top: 12;
+}
+.nicee{
+  margin-top: 15px;
+  
+}
+.section2{
+  margin-top: 100px;
+}
+
+.section3 h1{
+  font-family: Inter;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.section3 h2{
+  font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0px;
+
+}
+.section3 h2{
+font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0px;
+margin-top: 10px;
+}
+.section3 p{
+  color: #9A9EA7;
+font-family: Inter;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+
+}
+.section3 .btn1{
+  background: #F1FFD3;
+  padding: 5px 7px;
+  
+}
+.section3 .btn2{
+  background: #C0CEFF;
+  padding: 5px 7px;
+}
+.card{
+  border:none;
+}
+.section4 .findheader{
+  width: 98%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.findheader p span{
+  margin: 0px 5px;
+}
+.findheader p img{
+  background-color: #EAEAEA;
+  padding: 5px 8px;
+  border-radius: 6px;
+}
+.findheader p{
+  color: #9A9EA7;
+}
+.section4 h2{
+  font-family: Inter;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 70px;
+}
+.section4{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.proD{
+  font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0px;
+margin-top: 10px;
+}
+.cbtn{
+  color:#9A9EA7;
+}
+.CBtn{
+  color:#0035FF;
+  background: #CDD7FF;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+.product{
+  min-height: 24%;
+  left:0;
+  position: relative;
+  transition: 0.5s;
+  margin: 0px 20px 50px 0px;
+}
+
+.b-find{
+  font-family: Inter;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+text-align: center;
+color: #9A9EA7;
+
+width: 111;
+height: 40;
+left: 917px;
+
+}
+.activ{
+  font-family: Inter;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+text-align: center;
+color: #0D0A19;
+width: 111;
+height: 40;
+border-radius: 8px;
+border-width: 1px;
+
+}
+.h{
+  font-family: Inter;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+
+}
+.pop{
+  font-family: Inter;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color:#9A9EA7;
+}
+.p1{
+  font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0px;
+
+}
+.bejal .ppp{
+  font-family: Inter;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color:#9A9EA7;
+margin-top: -17px;
+}
+.finds{
+  margin-bottom: 37px;
+}
+.col2{
+  align-items: center;
+  gap: 100px; 
+  
+}
+.colap2 .text1{
+  font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0px;
+}
+.colap2 .text2{
+  font-family: Inter;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color:#9A9EA7;
+}
+.colap2{
+  align-items: center;
+  margin-top: -6px;
+}
+.poop{
+  font-family: Inter;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color:#9A9EA7;
+}
+.gap{
+  margin-left: 25px;
+}
+footer{
+width: 100%;
+height: 276px;
+margin-top: 100px;
+background: #F5F6F7;
+
+}
+footer.hed{
+  font-family: Inter;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+
+}
+footer .fc1{
+  font-family: Inter;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+letter-spacing: -0.1px;
+color: grey;
+text-decoration: none;
+
+}
+.fff{
+  font-family: Inter;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: grey;
+}
+.pd{
+  width: 100%;
+height: 56px;
+top: 3076px;
+left: 150px;
+background: #fff;
+bottom: 0;
+display: flex;
+}
+footer .cen{
+  
+  width: 100%;
+  height: 40px;
+}
+.mobile{
+    display: none;
+    
+  }
+  .find-nav{
+    display: flex;
+  }
+@media all and (max-width: 767px){
+  .section1 h1{
+    font-family: Inter;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0px;
+text-align: center;
+
+  }
+  .section1 p{
+    font-size: 12px;
+  }
+  .topFooter{
+  
+    height: 365px;
+    top: 390px;
+  
+
+  }
+  .amranBtn{
+    width: 80%;
+    padding: 15px;
+  }
+  .section2{
+    margin-top: 200px;
+  }
+  .section2 img{
+    margin-top: 15px;
+  }
+  .pd{
+    display: none;
+  }
+  footer{
+    display: none;
+  }
+  .mobile{
+    display: block;
+  }
+  .find-section .h{
+    font-family: Inter;
+font-weight: 700;
+font-size: 22px;
+line-height: 32px;
+letter-spacing: -0.09px;
+
+  }
+  .find-nav{
+    display: block;
+  }
+}
